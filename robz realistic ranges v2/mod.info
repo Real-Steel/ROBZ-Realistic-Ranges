@@ -1,0 +1,6 @@
+{Mod
+	{Name "Robz Realistic Ranges Extension V2"}
+	{Desc "Adds more realistic ranges to all infantry weapons."}
+	{MinGameVersion "3.262"}
+	{MaxGameVersion "3.262"}
+}
