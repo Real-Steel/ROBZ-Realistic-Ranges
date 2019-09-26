@@ -1,0 +1,10 @@
+{from "76mm_zis3"      ; "zis3", "su76"
+	{rechargeTime 5.95}
+
+	{range 200 200}
+
+	{parameters "fg"
+		{range 180 180}
+	}
+    	("accuracy_medium_200m")
+}

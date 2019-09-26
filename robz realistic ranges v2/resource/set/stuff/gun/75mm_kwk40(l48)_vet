@@ -1,0 +1,8 @@
+{from "75mm_pak39"		; "pz4h"
+	{rechargeTime 6.8}
+	("accuracy_high_210m")
+	{range 210 210}
+	{parameters "fg"
+		{range 190 190}
+	}
+}

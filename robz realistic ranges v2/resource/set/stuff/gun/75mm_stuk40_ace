@@ -1,0 +1,5 @@
+{from "75mm_pak39"		; "stug_3g"
+	{rechargeTime 4.9}
+	("accuracy_high_220m_vet")
+	{range 220 220}
+}

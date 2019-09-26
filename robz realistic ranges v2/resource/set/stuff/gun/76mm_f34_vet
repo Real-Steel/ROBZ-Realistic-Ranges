@@ -1,0 +1,8 @@
+{from "76mm_f34"	; "t34_2"
+	{rechargeTime 6.8}
+	{range 200 200}
+	{parameters "fg"
+		{range 180 180}
+	}
+	("accuracy_medium_200m")
+}

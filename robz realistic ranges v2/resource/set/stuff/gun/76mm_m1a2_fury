@@ -1,0 +1,6 @@
+{from "76mm_m5"		; "M4A3E8 Fury"
+	{rechargeTime 5.95}
+	
+	{range 220 220}
+	("accuracy_high_220m_vet")
+}

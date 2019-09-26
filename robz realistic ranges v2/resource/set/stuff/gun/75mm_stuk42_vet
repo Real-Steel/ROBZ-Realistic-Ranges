@@ -1,0 +1,8 @@
+{from "75mm_kwk42"		; "jagdpanzer_iv_vet"
+	{rechargeTime 7.22}
+	{range 240 240}
+	("accuracy_max_high_240m")
+	{parameters "fg"
+		{range 220 220}
+	}
+}

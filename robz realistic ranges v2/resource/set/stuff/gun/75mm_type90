@@ -1,0 +1,18 @@
+{from "pattern gun"		; "t90_75mm", "ho-ni1"
+	{filling "bullet75"}
+	{fireSound "gun/75mm_type3"}
+	{reloadSound "gun_r03"}
+	{rechargeTime 8}
+	
+	("speed" s(680))
+	("range_short")
+	{range 200 200}
+	{projectileDamage 101}
+	("damage" a(101) b(92) c(83) d(76) e(69))
+	{parameters "fg"
+		{range 180 180}
+	}
+
+	("accuracy_medium")
+}
+

@@ -1,0 +1,9 @@
+{from "76mm_mk4"		; "m4a4vc", "17_pdr", "achilles", "archer"
+	{rechargeTime 8}
+	{range 240 240}
+	{parameters "fg"
+		{range 220 220}
+	}
+	("accuracy_max_high_240m")
+}
+

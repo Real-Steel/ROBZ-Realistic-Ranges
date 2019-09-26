@@ -1,0 +1,6 @@
+{from "75mm_kwk42"		; "pz5 veteran"
+	{rechargeTime 6.65}
+
+	("accuracy_max_high_250m_vet")
+	{range 250 250}
+}

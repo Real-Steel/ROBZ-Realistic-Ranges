@@ -1,0 +1,4 @@
+{from "76mm_zis3_2"		; "zis3 arty mode"
+	{rechargeTime 5.95}
+	{recoveryTime 5.95}
+}

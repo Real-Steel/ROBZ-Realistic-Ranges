@@ -1,0 +1,24 @@
+{from "pattern gun"       
+	{filling "bullet76 rus"}
+	{fireSound "gun/50to76_cal/76mm_l11"}
+	{reloadSound "gun_r01"}
+	{rechargeTime 8}
+	("range_short")
+	
+	{range 190 190}
+	("speed_all" ap(615) apcr(950) fg(615) heat(355))
+	("caliber_medium")
+	{projectileDamage 64}
+	("damage" a(73) b(66) c(57) d(50) e(44))
+	{parameters "apbc"
+		("damage" a(77) b(69) c(61) d(54) e(48))
+	}
+	{parameters "apcr"
+        	("damage" a(91) b(77) c(62) d(49) e(37))
+	}
+	{parameters "fg"
+		{range 170 170}
+	}
+
+	("accuracy_low")		
+}
