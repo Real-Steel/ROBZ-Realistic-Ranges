@@ -1,0 +1,8 @@
+{from "weapon bazooka"
+	{filling "ammo type_4" 1}
+	{entity "type_4at"}
+    	{projectileDamage 150}
+	{fireSound "reactive/bazooka_launch/"}
+	("speed" s(120))
+	{range 150 220}
+}
