@@ -1,0 +1,8 @@
+{from "85mm_zis53"		; "t34_3"
+
+	{rechargeTime 6.44}
+
+	{range 230 230}
+
+	("accuracy_maximum_230m_vet")
+}

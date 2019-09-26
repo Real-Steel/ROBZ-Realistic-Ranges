@@ -1,0 +1,5 @@
+{from "122mm_d25"      ; "is-2"
+	{rechargeTime 13.3}
+	{range 270 270}
+	("accuracy_max_270m_vet")
+}

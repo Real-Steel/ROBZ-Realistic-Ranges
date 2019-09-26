@@ -1,0 +1,9 @@
+{from "90mm_m3"		; "m26"
+	{rechargeTime 9.77}
+
+	{range 240 240}
+	{parameters "fg"
+		{range 220 220}
+	}
+	("accuracy_maximum_240m")
+}

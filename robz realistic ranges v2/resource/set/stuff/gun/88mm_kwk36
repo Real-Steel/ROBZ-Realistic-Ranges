@@ -1,0 +1,23 @@
+{from "pattern gun"		; "pz6e"
+	{filling "bullet88 ger"}
+	{fireSound "gun/85to100_cal/88mm_kwk36"}
+	{reloadSound "tankgun_r04"}
+	{rechargeTime 11}	    
+	("range_long")
+
+	{range 220 220}
+	("caliber_large")
+	("speed_all" ap(773) apcr(1000) fg(820) heat(600))
+	{projectileDamage 152}	
+	("damage" a(162) b(151) c(138) d(126) e(116))
+	{parameters "apcr"
+        	("damage" a(220) b(200) c(179) d(160) e(143))
+	}
+	{parameters "heat"
+        	("damage_heat" a(110))
+	}
+	{parameters "fg"
+		{range 200 200}
+	}
+	("accuracy_maximum")
+}

@@ -1,0 +1,30 @@
+{from "pattern gun"      ; "isu-122"
+	{filling "bullet122 rusl"}
+	{fireSound "gun/howitzer/122mm_d25"}
+	{reloadSound "tankgun_r04"}
+	{rechargeTime 22.0}
+	("range_maximum")
+
+	{range 250 250}
+	("speed" s(792))
+	("caliber_maximum")
+	{projectileDamage 207}
+	("damage" a(201) b(179) c(158) d(141) e(125))
+	{parameters "aphebc"
+		("damage" a(206) b(183) c(162) d(144) e(129))
+		{cursorReloading "cannon_reload_aphebc"}
+	}
+	{parameters "fg"
+		{range 230 230}
+	}
+	("accuracy_max")
+	{RicochetEnergyDamping 	; penetration energy damping after ricochet (angle - damping)	
+		{0 	1}	
+		{15	0.9}
+		{30	0.8}
+		{45 	0.5}
+		{60 	0.2}
+		{75	0}
+		{90	0}
+	}
+}

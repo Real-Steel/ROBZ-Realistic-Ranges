@@ -1,0 +1,8 @@
+{from "88mm_kwk36"		; "pz6e_veteran"
+	{rechargeTime 9.35}
+	{range 230 230}
+	("accuracy_maximum_230m")
+	{parameters "fg"
+		{range 210 210}
+	}
+}

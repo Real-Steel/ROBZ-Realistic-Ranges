@@ -1,0 +1,12 @@
+{from "122mm_a19s"      ; "isu-122"
+
+	{rechargeTime 18.7}
+
+	{range 260 260}
+
+	{parameters "fg"
+		{range 240 240}
+	}
+	("accuracy_max_260m")
+
+}

@@ -1,0 +1,8 @@
+{from "128mm_pak44"    ;
+	{range 260 260}
+	{rechargeTime 16}
+	("accuracy_max_260m")
+	{parameters "fg"
+		{range 240 240}
+	}
+}

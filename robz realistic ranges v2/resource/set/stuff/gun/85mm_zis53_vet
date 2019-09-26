@@ -1,0 +1,11 @@
+{from "85mm_zis53"		; "t34_3"
+
+	{rechargeTime 7.82}
+
+	{range 220 220}
+
+	{parameters "fg"
+		{range 200 200}
+	}
+	("accuracy_maximum")
+}

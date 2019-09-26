@@ -1,0 +1,8 @@
+{from "122mm_d25"      ; "is-2"
+	{rechargeTime 16.15}
+	{range 260 260}
+	{parameters "fg"
+		{range 240 240}
+	}
+	("accuracy_max_260m")
+}

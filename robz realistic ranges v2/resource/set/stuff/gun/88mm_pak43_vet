@@ -1,0 +1,8 @@
+{from "88mm_kwk43"		; "jpanther vet"
+	{range 260 260}
+	{rechargeTime 9.35}
+	("accuracy_max_260m")
+	{parameters "fg"
+		{range 240 240}
+	}
+}

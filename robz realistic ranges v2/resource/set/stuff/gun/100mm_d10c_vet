@@ -1,0 +1,11 @@
+{from "100mm_d10c"		; "su100"
+
+	{rechargeTime 13.6}
+
+	{range 260 260}
+
+	{parameters "fg"
+		{range 240 240}
+	}
+	("accuracy_max_260m")
+}

@@ -1,0 +1,5 @@
+{from "88mm_kwk43"		; "pz6bh_vet"
+	{range 270 270}
+	{rechargeTime 9.1}
+	("accuracy_max_270m_vet")
+}

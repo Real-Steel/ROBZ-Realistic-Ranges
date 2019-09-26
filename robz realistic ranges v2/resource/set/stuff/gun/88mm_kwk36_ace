@@ -1,0 +1,5 @@
+{from "88mm_kwk36"		; "pz6e_ace"
+	{rechargeTime 7.7}
+	{range 240 240}
+	("accuracy_maximum_240m_vet")
+}

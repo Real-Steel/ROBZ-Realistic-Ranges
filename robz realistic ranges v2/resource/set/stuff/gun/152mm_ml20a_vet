@@ -1,0 +1,8 @@
+{from "152mm_ml20a"		; "isu-152"
+
+	{rechargeTime 19.55}
+
+	{range 220 220}
+
+	("accuracy_grazinghowitzer_220m")
+}
