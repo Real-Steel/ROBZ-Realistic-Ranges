@@ -1,0 +1,8 @@
+{from "g43"
+	{filling "ammo mauser_clip mauser" 10}
+	{entity "g41"}
+	{fireSound "rifle/g43_shot"}
+	{reloadSound "m1carbine"}
+	{rechargeTime 7.0}
+	("sa_zeroing")
+}
